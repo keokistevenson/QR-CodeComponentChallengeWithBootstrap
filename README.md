@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/keokistevenson/QR-CodeComponentChallengeWithBootstrap
 - Live Site URL: 
 
 ## My process
